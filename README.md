@@ -16,7 +16,7 @@
 <h4> You can checkout my other profiles below: </h4> <br>
 <a href="https://www.linkedin.com/in/alex-advent-6b1213191/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
 <a href="mailto:rajpurohitvijesh@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
-<a href="https://alex-advent.web.app/"> <img src="https://img.icons8.com/ios/50/000000/portfolio.png"/> </a>
+<a href="https://alex-advent.web.app/"> <img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/> </a>
 
 <p> <img src="https://komarev.com/ghpvc/?username=h4r5h1t-007&color=green" alt="counter" /> </p>
 
