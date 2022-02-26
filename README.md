@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Flutter, Full Stack Development, Python and Machine Learning
+- 🌱 I’m currently learning Full Stack Development, Python and Machine Learning
 - <img src="https://img.icons8.com/color/48/000000/python.png"> <img src="https://img.icons8.com/nolan/48/react-native.png"/> <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
 - 💬 Ask me about Python, Web, Machine Learning, Flutter.
 
